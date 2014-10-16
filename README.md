@@ -6,7 +6,7 @@ HT: from [pycon](https://github.com/python/pycon-code-of-conduct/blob/master/cod
 Thoughts about writing good code of conduct...
 
 1. There's a basic structure of 4 components.
-2. This is in addition to workplace EEO law to create a positive work environment.
+2. This is in addition to workplace EEO law to create a positive work environment: as a workplace, we might want to mention that, and then make sure we exclude everything that's already covered in that.
 
 ### 1. Define purpose/define what the environment should be
 
