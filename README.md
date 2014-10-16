@@ -1,6 +1,11 @@
 codeofconductnotes
 ==================
 
+Thoughts about writing good code of conduct...
+
+1. There's a basic structure of 4 components.
+2. This is in addition to workplace EEO law to create a positive work environment.
+
 ### Define purpose
 
 We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to eachother at all times.
