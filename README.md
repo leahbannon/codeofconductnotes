@@ -1,6 +1,8 @@
 codeofconductnotes
 ==================
 
+HT: from pycon, code for america
+
 Thoughts about writing good code of conduct...
 
 1. There's a basic structure of 4 components.
@@ -11,6 +13,17 @@ Thoughts about writing good code of conduct...
 We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to eachother at all times.
 
 We are dedicated to developing a respectful/suportive/positive/awesome working environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form.
+
+We aspire to working environments that...
+
+1. Are a safe and respectful environment for all participants.
+2. Are a place where people are free to fully express their identities.
+3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
+4. Don’t assume everyone has the same context, and encourage questions.
+5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
+6. Encourage members and participants to listen as much as they speak.
+7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
+8. Prioritize access for and input from those who are traditionally excluded from the civic process.
 
 ### Define unacceptable behavior
 
