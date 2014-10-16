@@ -1,7 +1,7 @@
 codeofconductnotes
 ==================
 
-HT: from pycon, code for america
+HT: from [pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md), [code for america](https://github.com/codeforamerica/codeofconduct/), [geek feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
 
 Thoughts about writing good code of conduct...
 
@@ -36,6 +36,8 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 Participants asked to stop any harassing behavior are expected to comply immediately.
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you and are not acceptable.
+
+Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
 ### Define ramifications for breaking the rules
 
