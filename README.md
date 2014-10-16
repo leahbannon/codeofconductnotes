@@ -8,7 +8,7 @@ Thoughts about writing good code of conduct...
 1. There's a basic structure of 4 components.
 2. This is in addition to workplace EEO law to create a positive work environment.
 
-### Define purpose/define what the environment should be
+### 1. Define purpose/define what the environment should be
 
 We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to eachother at all times.
 
@@ -25,7 +25,7 @@ We aspire to working environments that...
 7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
 8. Prioritize access for and input from those who are traditionally excluded from the civic process.
 
-### Define unacceptable behavior
+### 2. Define unacceptable behavior
 
 All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
 
@@ -39,7 +39,7 @@ Be careful in the words that you choose. Remember that sexist, racist, and other
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
-### Define ramifications for breaking the rules
+### 3. Define ramifications for breaking the rules
 
-### How to report issues?
+### 4. How to report issues?
 
