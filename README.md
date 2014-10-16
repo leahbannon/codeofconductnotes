@@ -1,7 +1,11 @@
 codeofconductnotes
 ==================
 
-HT: from [pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md), [code for america](https://github.com/codeforamerica/codeofconduct/), [geek feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
+HT: from [pycon](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md), [code for america](https://github.com/codeforamerica/codeofconduct/), [geek feminism wiki](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy), 
+
+https://www.hackerschool.com/manual#sec-environment
+
+http://www.yesandyesyes.com/code-of-conduct/
 
 Thoughts about writing good code of conduct...
 
@@ -25,19 +29,20 @@ We aspire to working environments that...
 7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
 8. Prioritize access for and input from those who are traditionally excluded from the civic process.
 
+
 ### 2. Define unacceptable behavior
 
-All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks.
+_All communication should be appropriate for a professional audience including people of many different backgrounds. Sexual language and imagery is not appropriate for any conference venue, including talks._
 
 Be kind to others. Do not insult or put down others. Behave professionally. Remember that harassment and sexist, racist, or exclusionary jokes are not appropriate.
 
-Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
-
-Participants asked to stop any harassing behavior are expected to comply immediately.
+Behavior we consider unacceptable includes offensive verbal comments related to physical appearance, body size, sustained disruption of talks or other events, AND???
 
 Be careful in the words that you choose. Remember that sexist, racist, and other exclusionary jokes can be offensive to those around you and are not acceptable.
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
+
+
 
 ### 3. Define ramifications for breaking the rules
 
