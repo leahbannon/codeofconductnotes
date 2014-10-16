@@ -12,7 +12,7 @@ Thoughts about writing good code of conduct...
 
 We value the participation of each member and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to eachother at all times.
 
-We are dedicated to developing a respectful/suportive/positive/awesome working environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form.
+_We are dedicated to developing a respectful/suportive/positive/awesome working environment for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment in any form._
 
 We aspire to working environments that...
 
